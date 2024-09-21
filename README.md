@@ -46,8 +46,11 @@ The objective is to generate a model capable of predicting the total weight of a
 
   <img width="960" alt="Trained model generated" src="https://github.com/user-attachments/assets/975521c3-4058-4dfc-ae29-a38731a30a91">
 
-  !!Considerations:
+  
+  !! Considerations:
+  
   Overfitting: Perfect performance can be a sign of overfitting, especially if the training data is limited or if the model is complex. It is advisable to evaluate the model with an additional validation set or to perform cross-validation.
+  
   <img width="578" alt="results" src="https://github.com/user-attachments/assets/55ffda30-c8b1-418f-8471-d280f301c5f4">
 
 
