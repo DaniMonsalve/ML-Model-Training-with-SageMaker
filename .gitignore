@@ -2,3 +2,5 @@ env_aws/
 old/
 test.csv
 *.csv
+test-V-1.csv
+train-V-1.csv
