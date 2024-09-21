@@ -3,7 +3,7 @@
 This project demonstrates how to train a Machine Learning model using Amazon Sagemaker.
 The objective is to generate a model capable of predicting the total weight of an airplane before takeoff ("PesoTotalTARGET"). To achieve this, I have a list of completed flights along with a series of relevant variables.
 
-# CONFIGURACIÓN Y RESULTADOS OBTENIDOS:
+# CONFIGURATION AND RESULTS OBTAINED:
 1- Create an IAM User and Provide Administrator Access:
 
   <img width="942" alt="IAM USER (ADMINISTRATIVE ASCCESS)" src="https://github.com/user-attachments/assets/2cd7bf44-c06c-4329-bca0-9af7fb8d99e7">
